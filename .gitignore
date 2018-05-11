@@ -1,0 +1,5 @@
+#node
+node_modules/
+.jshintrc
+package.json
+server.js
