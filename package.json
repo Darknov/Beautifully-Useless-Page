@@ -1,0 +1,26 @@
+{
+  "name": "beautifully-useless-page",
+  "version": "1.0.0",
+  "description": "Beautifully useless page that should be beautiful but you never know!",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darknov/Beautifully-Useless-Page.git"
+  },
+  "keywords": [
+    "beautiful",
+    "useless",
+    "page"
+  ],
+  "author": "Przemysław Maciaszek <darknov.dono@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darknov/Beautifully-Useless-Page/issues"
+  },
+  "homepage": "https://github.com/Darknov/Beautifully-Useless-Page#readme"
+}
