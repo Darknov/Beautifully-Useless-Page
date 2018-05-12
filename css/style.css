@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://fonts.googleapis.com/css?family=Roboto:700');
+
+
 html,
 body {
   margin: 0;
@@ -9,6 +11,14 @@ body {
   width: 100%;
   font-size: 18px;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Home
+======= */
 
 .intro {
   height: 100%;
@@ -63,6 +73,9 @@ p {
   margin: 3%;
   font-family: sans-serif;
 }
+
+/* Navigation bar
+================= */
 
 nav {
   position: fixed;
@@ -125,6 +138,26 @@ nav ul li a.active,
 nav ul li a:hover {
   color: #fff;
   background: #f00;
+}
+/* portfolio
+============ */
+
+.portfolio {
+
+}
+
+.portfolio .portfolio-game {
+
+}
+
+.portfolio .portfolio-game .game-picture {
+
+
+}
+
+.portfolio .portfolio-game .game-picture img{
+
+
 }
 
 @media screen and (max-width: 768px) {
